@@ -1,5 +1,10 @@
-## "The mind is sharper and keener in seclusion and uninterrupted solitude. No big laboratory is needed in which to think. Originality thrives in seclusion free of outside influences beating upon us to cripple the creative mind. Be alone, that is the secret of invention; be alone, that is when ideas are born." - Nikola Tesla
-
+<div align="center">
+  <i>"The mind is sharper and keener in seclusion and uninterrupted solitude. No big laboratory is needed in which to think. Originality thrives in seclusion free of outside influences beating upon us to cripple the creative mind."</i>
+  <br><br>
+  <b>"Be alone, that is the secret of invention; be alone, that is when ideas are born."</b>
+  <br>
+  <sub>— Nikola Tesla</sub>
+</div>
 <!--
 **austengary33/austengary33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
